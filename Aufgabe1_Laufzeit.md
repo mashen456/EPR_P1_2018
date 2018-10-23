@@ -1,3 +1,4 @@
+```ssh
 root@notebook ~/EPR_PRAKTIKUM_1 # time ./aufgabe1
 i=0 x=0
 i=1 x=0
@@ -13,3 +14,4 @@ i=9 x=36
 real    0m0.005s
 user    0m0.000s
 sys     0m0.000s
+```
