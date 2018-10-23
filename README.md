@@ -12,7 +12,7 @@ $ ./demo
 
 # Umwandlungsspezifizierer
 
-###### %g
+### %g
 Der Umwandlungsspezifizierer "g" verlangt eine gemischte Schreibweise zur Ausgabe einer Gleitkommazahl. Die Zehnerpotenzschreibweise wird zur Ausgabe dabei nur dann verwendet, wenn der sich für die Ausgabe ergebende Exponent von Zehn kleiner als −4 oder größergleich der Genauigkeit ist, die normalerweise 6 beträgt. Endnullen erscheinen nicht, und ein Dezimaltrennzeichen wird nur ausgegeben, wenn noch eine Stelle folgt.
 
 #include <stdio.h>
