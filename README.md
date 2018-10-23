@@ -35,6 +35,5 @@ int main( void )
 500000| 
 6e+006|
 
-# C Standard-Bibliothek
-# Grenzwerte einer Implementierung: <limits.h> und <float.h>
+# C Standard-Bibliothek Grenzwerte einer Implementierung: <limits.h> und <float.h>
 
