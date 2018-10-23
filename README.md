@@ -1,13 +1,14 @@
 # EPR_P1
 EPR Praktikum 1 2018
 
-# Compiling under Linux:
+## Compiling under Linux:
 
 * cc program-source-code.c -o executable-file-name
 * gcc program-source-code.c -o executable-file-name
-## assuming that executable-file-name.c exists ##
+### assuming that executable-file-name.c exists
 * make executable-file-name
-<h2>$ ./demo</h2>
+### executing
+$ ./demo
 
 # %g
 
