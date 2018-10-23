@@ -1,7 +1,7 @@
 # EPR_P1
 EPR Praktikum 1 2018
 
-#%g
+# %g
 
 dlungsspezifizierer "g" verlangt eine gemischte Schreibweise zur Ausgabe einer Gleitkommazahl.
 Die Zehnerpotenzschreibweise wird zur Ausgabe dabei nur dann verwendet, wenn der sich für die Ausgabe ergebende Exponent von Zehn kleiner als −4 oder größergleich der Genauigkeit ist,
