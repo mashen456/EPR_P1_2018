@@ -1,3 +1,4 @@
+#Laufzeittest unter Linux
 ```ssh
 root@notebook ~/EPR_PRAKTIKUM_1 # time ./aufgabe1
 i=0 x=0
