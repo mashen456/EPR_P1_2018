@@ -1,6 +1,14 @@
 # EPR_P1
 EPR Praktikum 1 2018
 
+# Compiling under Linux:
+
+cc program-source-code.c -o executable-file-name
+gcc program-source-code.c -o executable-file-name
+## assuming that executable-file-name.c exists ##
+make executable-file-name
+$ ./demo
+
 # %g
 
 Der Umwandlungsspezifizierer "g" verlangt eine gemischte Schreibweise zur Ausgabe einer Gleitkommazahl. Die Zehnerpotenzschreibweise wird zur Ausgabe dabei nur dann verwendet, wenn der sich für die Ausgabe ergebende Exponent von Zehn kleiner als −4 oder größergleich der Genauigkeit ist, die normalerweise 6 beträgt. Endnullen erscheinen nicht, und ein Dezimaltrennzeichen wird nur ausgegeben, wenn noch eine Stelle folgt.
