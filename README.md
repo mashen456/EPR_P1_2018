@@ -3,10 +3,10 @@ EPR Praktikum 1 2018
 
 # Compiling under Linux:
 
-cc program-source-code.c -o executable-file-name
-gcc program-source-code.c -o executable-file-name
+cc program-source-code.c -o executable-file-name\n
+gcc program-source-code.c -o executable-file-name\n
 ## assuming that executable-file-name.c exists ##
-make executable-file-name
+make executable-file-name\n
 $ ./demo
 
 # %g
