@@ -2,7 +2,7 @@
 #include <limits.h>
 #include <float.h>
 
-int main() {
+void main() {
     // Maximalgroesen von FLOAT / INTEGER / DOUBLE
     printf("Groeste Positive Integer Value: %d\n", INT_MAX);
     printf("Maximal Float Value %g\n",FLT_MAX);
@@ -31,8 +31,5 @@ int main() {
     char c = CHAR_MAX;
     c++;
     printf("\nMaximale CHAR groese +1: %i", c);
-
-
-    return 0;
 
 }
