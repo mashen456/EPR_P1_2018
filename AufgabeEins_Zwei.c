@@ -1,10 +1,10 @@
 #include <stdio.h>
 //# include < stdo .h >
 
-void main() {
+int main() {
 //int mein ( void ) {
 //mein =! main (Typo)
-//Int ist nicht benötigt, da die Funktion keinen wert zurueck gibt.
+//Void wird nicht benoetigt. 
 
     int i;
     double x = 0.0;
@@ -17,6 +17,5 @@ void main() {
         //x = x + i
         x = x + i;
     }
-//    return 0;
-//    void = kein rueckgabewert also wird auch kein return benötigt. 
+    return 0;
 }
